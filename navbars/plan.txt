@@ -1,0 +1,13 @@
+## what to do bro?
+1. research on types of navbars 
+2. list out the types of navbar
+3. choose which to start with first
+
+
+## types of navbar
+- horizontal navbar -- logo top left, nav menu top right
+- horizontal navbar -- logo middle, nav menu top right, socmed top right
+- sticky or fixed horizontal navbar
+- massive drop down menu
+- vertical sidebar menu
+- hamburger menu
